@@ -1,0 +1,87 @@
+[
+  {
+    "IdElemento": 1,
+    "DescrCorta": "N",
+    "DescrLarga": "Nitrogeno"
+  },
+  {
+    "IdElemento": 2,
+    "DescrCorta": "P",
+    "DescrLarga": "Fosforo-P2O5"
+  },
+  {
+    "IdElemento": 3,
+    "DescrCorta": "K",
+    "DescrLarga": "Potasio-K2O"
+  },
+  {
+    "IdElemento": 4,
+    "DescrCorta": "Mg",
+    "DescrLarga": "Magnesio - MgO"
+  },
+  {
+    "IdElemento": 5,
+    "DescrCorta": "Zn",
+    "DescrLarga": "Zinc - ZnO"
+  },
+  {
+    "IdElemento": 6,
+    "DescrCorta": "S",
+    "DescrLarga": "Azufre - SO4"
+  },
+  {
+    "IdElemento": 7,
+    "DescrCorta": "B",
+    "DescrLarga": "Boro - B2O3"
+  },
+  {
+    "IdElemento": 8,
+    "DescrCorta": "Mn",
+    "DescrLarga": "Manganeso"
+  },
+  {
+    "IdElemento": 9,
+    "DescrCorta": "CaO",
+    "DescrLarga": "Calcio - CaO"
+  },
+  {
+    "IdElemento": 10,
+    "DescrCorta": "Ca",
+    "DescrLarga": "Carbonato de Calcio"
+  },
+  {
+    "IdElemento": 11,
+    "DescrCorta": "H",
+    "DescrLarga": "Humiplex"
+  },
+  {
+    "IdElemento": 12,
+    "DescrCorta": "Alga",
+    "DescrLarga": "Alga"
+  },
+  {
+    "IdElemento": 13,
+    "DescrCorta": "Cu",
+    "DescrLarga": "Cobre"
+  },
+  {
+    "IdElemento": 14,
+    "DescrCorta": "Fe",
+    "DescrLarga": "Hierro"
+  },
+  {
+    "IdElemento": 15,
+    "DescrCorta": "Mo",
+    "DescrLarga": "Molibdeno"
+  },
+  {
+    "IdElemento": 16,
+    "DescrCorta": "Ze",
+    "DescrLarga": "Zeolita"
+  },
+  {
+    "IdElemento": 17,
+    "DescrCorta": "TMC",
+    "DescrLarga": "Tecnologia Mi Carbono"
+  }
+]
