@@ -2,86 +2,137 @@
   {
     "IdElemento": 1,
     "DescrCorta": "N",
-    "DescrLarga": "Nitrogeno"
+    "DescrLarga": "Nitrogeno",
+    "IdTipo": 1,
+    "Activo": 1,
+    "Prioridad": 0
   },
   {
     "IdElemento": 2,
     "DescrCorta": "P",
-    "DescrLarga": "Fosforo-P2O5"
+    "DescrLarga": "Fosforo-P2O5",
+    "IdTipo": 1,
+    "Activo": 1,
+    "Prioridad": 1
   },
   {
     "IdElemento": 3,
     "DescrCorta": "K",
-    "DescrLarga": "Potasio-K2O"
+    "DescrLarga": "Potasio-K2O",
+    "IdTipo": 1,
+    "Activo": 1,
+    "Prioridad": 2
   },
   {
     "IdElemento": 4,
     "DescrCorta": "Mg",
-    "DescrLarga": "Magnesio - MgO"
+    "DescrLarga": "Magnesio - MgO",
+    "IdTipo": 2,
+    "Activo": 1,
+    "Prioridad": 4
   },
   {
     "IdElemento": 5,
     "DescrCorta": "Zn",
-    "DescrLarga": "Zinc - ZnO"
+    "DescrLarga": "Zinc - ZnO",
+    "IdTipo": 2,
+    "Activo": 1,
+    "Prioridad": 6
   },
   {
     "IdElemento": 6,
     "DescrCorta": "S",
-    "DescrLarga": "Azufre - SO4"
+    "DescrLarga": "Azufre - SO4",
+    "IdTipo": 2,
+    "Activo": 1,
+    "Prioridad": 5
   },
   {
     "IdElemento": 7,
     "DescrCorta": "B",
-    "DescrLarga": "Boro - B2O3"
+    "DescrLarga": "Boro - B2O3",
+    "IdTipo": 2,
+    "Activo": 1,
+    "Prioridad": 7
   },
   {
     "IdElemento": 8,
     "DescrCorta": "Mn",
-    "DescrLarga": "Manganeso"
+    "DescrLarga": "Manganeso",
+    "IdTipo": 2,
+    "Activo": 1,
+    "Prioridad": 8
   },
   {
     "IdElemento": 9,
     "DescrCorta": "CaO",
-    "DescrLarga": "Calcio - CaO"
+    "DescrLarga": "Calcio - CaO",
+    "IdTipo": 2,
+    "Activo": 1,
+    "Prioridad": 3
   },
   {
     "IdElemento": 10,
     "DescrCorta": "Ca",
-    "DescrLarga": "Carbonato de Calcio"
+    "DescrLarga": "Carbonato de Calcio",
+    "IdTipo": 2,
+    "Activo": 1,
+    "Prioridad": 10
   },
   {
     "IdElemento": 11,
     "DescrCorta": "H",
-    "DescrLarga": "Humiplex"
+    "DescrLarga": "Humiplex",
+    "IdTipo": 2,
+    "Activo": 1,
+    "Prioridad": 9
   },
   {
     "IdElemento": 12,
     "DescrCorta": "Alga",
-    "DescrLarga": "Alga"
+    "DescrLarga": "Alga",
+    "IdTipo": 2,
+    "Activo": 1,
+    "Prioridad": 12
   },
   {
     "IdElemento": 13,
     "DescrCorta": "Cu",
-    "DescrLarga": "Cobre"
+    "DescrLarga": "Cobre",
+    "IdTipo": 2,
+    "Activo": 1,
+    "Prioridad": 13
   },
   {
     "IdElemento": 14,
     "DescrCorta": "Fe",
-    "DescrLarga": "Hierro"
+    "DescrLarga": "Hierro",
+    "IdTipo": 2,
+    "Activo": 1,
+    "Prioridad": 14
   },
   {
     "IdElemento": 15,
     "DescrCorta": "Mo",
-    "DescrLarga": "Molibdeno"
+    "DescrLarga": "Molibdeno",
+    "IdTipo": 2,
+    "Activo": 1,
+    "Prioridad": 15
   },
   {
     "IdElemento": 16,
     "DescrCorta": "Ze",
-    "DescrLarga": "Zeolita"
+    "DescrLarga": "Zeolita",
+    "IdTipo": 2,
+    "Activo": 1,
+    "Prioridad": 16
   },
   {
     "IdElemento": 17,
     "DescrCorta": "TMC",
-    "DescrLarga": "Tecnologia Mi Carbono"
+    "DescrLarga": "Tecnologia Mi Carbono",
+    "IdTipo": 2,
+    "Activo": 1,
+    "Prioridad": 17
   }
 ]

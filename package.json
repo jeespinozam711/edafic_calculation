@@ -12,5 +12,8 @@
     "chai": "^4.2.0",
     "mocha": "^5.2.0",
     "nodemon": "^1.18.9"
+  },
+  "dependencies": {
+    "underscore": "^1.9.1"
   }
 }

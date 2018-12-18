@@ -1,1115 +1,1433 @@
 [
   {
+    "IdElemento": 1,
+    "Articulo": "FE00185",
+    "Concetracion": 34,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 1,
+    "Articulo": "FE00236",
+    "Concetracion": 12,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 1,
+    "Articulo": "FE01192",
+    "Concetracion": 2,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 1,
+    "Articulo": "FE01210",
+    "Concetracion": 21,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 1,
+    "Articulo": "FE01347",
+    "Concetracion": 21,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 1,
+    "Articulo": "FE01353",
+    "Concetracion": 16,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 1,
+    "Articulo": "FE01482",
+    "Concetracion": 21,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 1,
+    "Articulo": "FE01483",
+    "Concetracion": 46,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 1,
+    "Articulo": "FE01635",
+    "Concetracion": 10,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 1,
+    "Articulo": "FE01761",
+    "Concetracion": 14,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 1,
+    "Articulo": "FE01800",
+    "Concetracion": 40,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 1,
+    "Articulo": "FE02103",
+    "Concetracion": 13,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 1,
+    "Articulo": "FE02104",
+    "Concetracion": 15,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 1,
+    "Articulo": "FE2057",
+    "Concetracion": 38,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 1,
+    "Articulo": "M000011",
+    "Concetracion": 46,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 1,
+    "Articulo": "M000012",
+    "Concetracion": 46,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 1,
+    "Articulo": "M000014",
+    "Concetracion": 18,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 1,
+    "Articulo": "M000104",
+    "Concetracion": 21,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 1,
+    "Articulo": "M000236",
+    "Concetracion": 12,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 1,
+    "Articulo": "M001635",
+    "Concetracion": 10,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 1,
+    "Articulo": "M001761",
+    "Concetracion": 11,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 2,
+    "Articulo": "FE00236",
+    "Concetracion": 52,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 2,
+    "Articulo": "FE01192",
+    "Concetracion": 2,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 2,
+    "Articulo": "FE01347",
+    "Concetracion": 0.1,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 2,
+    "Articulo": "FE01353",
+    "Concetracion": 16,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 2,
+    "Articulo": "FE01482",
+    "Concetracion": 0.1,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 2,
+    "Articulo": "FE01635",
+    "Concetracion": 50,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 2,
+    "Articulo": "FE01761",
+    "Concetracion": 44,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 2,
+    "Articulo": "FE02099",
+    "Concetracion": 15,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 2,
+    "Articulo": "FE02100",
+    "Concetracion": 10,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 2,
+    "Articulo": "M000014",
+    "Concetracion": 46,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 2,
+    "Articulo": "M000236",
+    "Concetracion": 52,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 2,
+    "Articulo": "M001635",
+    "Concetracion": 50,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 2,
+    "Articulo": "M001761",
+    "Concetracion": 44,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 3,
+    "Articulo": "FE00153",
+    "Concetracion": 52,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 3,
+    "Articulo": "FE00304",
+    "Concetracion": 52,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 3,
+    "Articulo": "FE00327",
+    "Concetracion": 22,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 3,
+    "Articulo": "FE01192",
+    "Concetracion": 2,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 3,
+    "Articulo": "FE01347",
+    "Concetracion": 21,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 3,
+    "Articulo": "FE01353",
+    "Concetracion": 16,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 3,
+    "Articulo": "FE01482",
+    "Concetracion": 21,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 3,
+    "Articulo": "FE02103",
+    "Concetracion": 45,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 3,
+    "Articulo": "FE02104",
+    "Concetracion": 14,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 3,
+    "Articulo": "M000060",
+    "Concetracion": 60,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 4,
+    "Articulo": "FE00115",
+    "Concetracion": 16,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 4,
+    "Articulo": "FE00116",
+    "Concetracion": 69,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 4,
+    "Articulo": "FE00166",
+    "Concetracion": 36,
+    "Activo": 0,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 4,
+    "Articulo": "FE00197",
+    "Concetracion": 65,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 4,
+    "Articulo": "FE00198",
+    "Concetracion": 4,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 4,
+    "Articulo": "FE00327",
+    "Concetracion": 18,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 4,
+    "Articulo": "FE00494",
+    "Concetracion": 23,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 4,
+    "Articulo": "FE00653",
+    "Concetracion": 15,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 4,
+    "Articulo": "FE00733",
+    "Concetracion": 14,
+    "Activo": 0,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 4,
+    "Articulo": "FE00831",
+    "Concetracion": 23,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 4,
+    "Articulo": "FE00954",
+    "Concetracion": 13,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 4,
+    "Articulo": "FE00955",
+    "Concetracion": 14,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 4,
+    "Articulo": "FE01001",
+    "Concetracion": 36,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 4,
+    "Articulo": "FE01094",
+    "Concetracion": 9,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 4,
+    "Articulo": "FE01099",
+    "Concetracion": 4,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 4,
+    "Articulo": "FE01197",
+    "Concetracion": 4,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 4,
+    "Articulo": "FE01988",
+    "Concetracion": 8,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 4,
+    "Articulo": "FE02098",
+    "Concetracion": 28,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 4,
+    "Articulo": "FE02099",
+    "Concetracion": 10,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 4,
+    "Articulo": "FE02100",
+    "Concetracion": 10,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 4,
+    "Articulo": "FE02113",
+    "Concetracion": 23,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 4,
+    "Articulo": "FE02129",
+    "Concetracion": 4,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 4,
+    "Articulo": "M000985",
+    "Concetracion": 65,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 4,
+    "Articulo": "M001841",
+    "Concetracion": 65,
+    "Activo": 0,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 4,
+    "Articulo": "M081879",
+    "Concetracion": 65,
+    "Activo": 0,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
     "IdElemento": 5,
-    "DescrCorta": "Zn",
+    "Articulo": "FE00004",
+    "Concetracion": 39,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 5,
     "Articulo": "FE00117",
-    "DESCRIPCION": "ZIN ACTION (50.0KLS)",
-    "Concetracion": 32
-  },
-  {
-    "IdElemento": 7,
-    "DescrCorta": "B",
-    "Articulo": "FE00183",
-    "DESCRIPCION": "FERTIBAGRA 21 (25.0KLS)",
-    "Concetracion": 68
-  },
-  {
-    "IdElemento": 7,
-    "DescrCorta": "B",
-    "Articulo": "FE00182",
-    "DESCRIPCION": "FERTIBAGRA 15 (25.0KLS)",
-    "Concetracion": 48
+    "Concetracion": 32,
+    "Activo": 0,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
   },
   {
     "IdElemento": 5,
-    "DescrCorta": "Zn",
-    "Articulo": "FE00004",
-    "DESCRIPCION": "SULFATO DE ZINC (25.0KLS)",
-    "Concetracion": 39
+    "Articulo": "FE00198",
+    "Concetracion": 2,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 5,
+    "Articulo": "FE00944",
+    "Concetracion": 28,
+    "Activo": 0,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 5,
+    "Articulo": "FE00955",
+    "Concetracion": 2,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 5,
+    "Articulo": "FE01094",
+    "Concetracion": 7.5,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 5,
+    "Articulo": "FE01095",
+    "Concetracion": 15,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 5,
+    "Articulo": "FE01098",
+    "Concetracion": 20,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 5,
+    "Articulo": "FE01981",
+    "Concetracion": 32,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 5,
+    "Articulo": "FE02113",
+    "Concetracion": 5,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 5,
+    "Articulo": "FE02129",
+    "Concetracion": 2,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
   },
   {
     "IdElemento": 6,
-    "DescrCorta": "S",
     "Articulo": "FE00004",
-    "DESCRIPCION": "SULFATO DE ZINC (25.0KLS)",
-    "Concetracion": 22
+    "Concetracion": 22,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
   },
   {
     "IdElemento": 6,
-    "DescrCorta": "S",
     "Articulo": "FE00096",
-    "DESCRIPCION": "SULFATO DE MANGANESO SOL (25.0KLS)",
-    "Concetracion": 56.8
+    "Concetracion": 56.8,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 6,
+    "Articulo": "FE00103",
+    "Concetracion": 56.8,
+    "Activo": 0,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 6,
+    "Articulo": "FE00153",
+    "Concetracion": 18,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 6,
+    "Articulo": "FE00198",
+    "Concetracion": 24,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 6,
+    "Articulo": "FE00304",
+    "Concetracion": 18,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 6,
+    "Articulo": "FE00327",
+    "Concetracion": 22,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 6,
+    "Articulo": "FE00831",
+    "Concetracion": 8,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 6,
+    "Articulo": "FE00913",
+    "Concetracion": 1,
+    "Activo": 0,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 6,
+    "Articulo": "FE00954",
+    "Concetracion": 10,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 6,
+    "Articulo": "FE01095",
+    "Concetracion": 10,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 6,
+    "Articulo": "FE01099",
+    "Concetracion": 22,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 6,
+    "Articulo": "FE01162",
+    "Concetracion": 1,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 6,
+    "Articulo": "FE01197",
+    "Concetracion": 28,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 6,
+    "Articulo": "FE01210",
+    "Concetracion": 72,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 6,
+    "Articulo": "FE01491",
+    "Concetracion": 56.8,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 6,
+    "Articulo": "FE01800",
+    "Concetracion": 6,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 6,
+    "Articulo": "FE02098",
+    "Concetracion": 20,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 6,
+    "Articulo": "FE02099",
+    "Concetracion": 10,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 6,
+    "Articulo": "FE02100",
+    "Concetracion": 7,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 6,
+    "Articulo": "FE02113",
+    "Concetracion": 5.7,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 6,
+    "Articulo": "FE02129",
+    "Concetracion": 24,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 6,
+    "Articulo": "FE2057",
+    "Concetracion": 13.3,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 6,
+    "Articulo": "M000104",
+    "Concetracion": 72,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 7,
+    "Articulo": "FE00182",
+    "Concetracion": 48,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 7,
+    "Articulo": "FE00183",
+    "Concetracion": 68,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 7,
+    "Articulo": "FE00198",
+    "Concetracion": 0.6,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 7,
+    "Articulo": "FE00557",
+    "Concetracion": 56,
+    "Activo": 0,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 7,
+    "Articulo": "FE00559",
+    "Concetracion": 32,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 7,
+    "Articulo": "FE00733",
+    "Concetracion": 7,
+    "Activo": 0,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 7,
+    "Articulo": "FE00913",
+    "Concetracion": 32,
+    "Activo": 0,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 7,
+    "Articulo": "FE00955",
+    "Concetracion": 0.6,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 7,
+    "Articulo": "FE01094",
+    "Concetracion": 0.1,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 7,
+    "Articulo": "FE01095",
+    "Concetracion": 1.5,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 7,
+    "Articulo": "FE01162",
+    "Concetracion": 32,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 7,
+    "Articulo": "FE01988",
+    "Concetracion": 8,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 7,
+    "Articulo": "FE02031",
+    "Concetracion": 48,
+    "Activo": 0,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 7,
+    "Articulo": "FE02100",
+    "Concetracion": 0.6,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 7,
+    "Articulo": "FE02113",
+    "Concetracion": 2,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 7,
+    "Articulo": "FE02114",
+    "Concetracion": 32,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 7,
+    "Articulo": "FE02129",
+    "Concetracion": 0.6,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 7,
+    "Articulo": "M000778",
+    "Concetracion": 32,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
   },
   {
     "IdElemento": 8,
-    "DescrCorta": "Mn",
     "Articulo": "FE00096",
-    "DESCRIPCION": "SULFATO DE MANGANESO SOL (25.0KLS)",
-    "Concetracion": 33
+    "Concetracion": 33,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
   },
   {
-    "IdElemento": 4,
-    "DescrCorta": "Mg",
-    "Articulo": "FE00116",
-    "DESCRIPCION": "OXIDO DE MAGNESIO (50.0KLS)",
-    "Concetracion": 69
+    "IdElemento": 8,
+    "Articulo": "FE01094",
+    "Concetracion": 1.2,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
   },
   {
-    "IdElemento": 4,
-    "DescrCorta": "Mg",
-    "Articulo": "FE00198",
-    "DESCRIPCION": "AZUFERTIL (50.0KLS)",
-    "Concetracion": 4
+    "IdElemento": 8,
+    "Articulo": "FE01095",
+    "Concetracion": 3,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
   },
   {
-    "IdElemento": 5,
-    "DescrCorta": "Zn",
-    "Articulo": "FE00198",
-    "DESCRIPCION": "AZUFERTIL (50.0KLS)",
-    "Concetracion": 2
+    "IdElemento": 8,
+    "Articulo": "FE01099",
+    "Concetracion": 5,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
   },
   {
-    "IdElemento": 6,
-    "DescrCorta": "S",
-    "Articulo": "FE00198",
-    "DESCRIPCION": "AZUFERTIL (50.0KLS)",
-    "Concetracion": 24
-  },
-  {
-    "IdElemento": 7,
-    "DescrCorta": "B",
-    "Articulo": "FE00198",
-    "DESCRIPCION": "AZUFERTIL (50.0KLS)",
-    "Concetracion": 0.6
-  },
-  {
-    "IdElemento": 9,
-    "DescrCorta": "CaO",
-    "Articulo": "FE00198",
-    "DESCRIPCION": "AZUFERTIL (50.0KLS)",
-    "Concetracion": 22
+    "IdElemento": 8,
+    "Articulo": "FE01491",
+    "Concetracion": 33,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
   },
   {
     "IdElemento": 9,
-    "DescrCorta": "CaO",
+    "Articulo": "FE00115",
+    "Concetracion": 28,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 9,
+    "Articulo": "FE00198",
+    "Concetracion": 22,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 9,
     "Articulo": "FE00285",
-    "DESCRIPCION": "CARBONATO DE  CALCIO (1.00QQ)",
-    "Concetracion": 53
+    "Concetracion": 53,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 9,
+    "Articulo": "FE00494",
+    "Concetracion": 23,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 9,
+    "Articulo": "FE00653",
+    "Concetracion": 25,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 9,
+    "Articulo": "FE00733",
+    "Concetracion": 23,
+    "Activo": 0,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 9,
+    "Articulo": "FE00831",
+    "Concetracion": 15,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 9,
+    "Articulo": "FE00913",
+    "Concetracion": 9,
+    "Activo": 0,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 9,
+    "Articulo": "FE00954",
+    "Concetracion": 26,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 9,
+    "Articulo": "FE00955",
+    "Concetracion": 23,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 9,
+    "Articulo": "FE01094",
+    "Concetracion": 5,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 9,
+    "Articulo": "FE01099",
+    "Concetracion": 20,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 9,
+    "Articulo": "FE01162",
+    "Concetracion": 9,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 9,
+    "Articulo": "FE01197",
+    "Concetracion": 25,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 9,
+    "Articulo": "FE01988",
+    "Concetracion": 25,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 9,
+    "Articulo": "FE02098",
+    "Concetracion": 14,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 9,
+    "Articulo": "FE02099",
+    "Concetracion": 26,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 9,
+    "Articulo": "FE02100",
+    "Concetracion": 28,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 9,
+    "Articulo": "FE02113",
+    "Concetracion": 4,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
+  },
+  {
+    "IdElemento": 9,
+    "Articulo": "FE02129",
+    "Concetracion": 22,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
   },
   {
     "IdElemento": 10,
-    "DescrCorta": "Ca",
     "Articulo": "FE00285",
-    "DESCRIPCION": "CARBONATO DE  CALCIO (1.00QQ)",
-    "Concetracion": 53
-  },
-  {
-    "IdElemento": 6,
-    "DescrCorta": "S",
-    "Articulo": "FE00103",
-    "DESCRIPCION": "SULFATO DE AMONIO GRANULAR (1.00QQ)",
-    "Concetracion": 56.8
-  },
-  {
-    "IdElemento": 4,
-    "DescrCorta": "Mg",
-    "Articulo": "FE00115",
-    "DESCRIPCION": "TIGSAMAG 2 E (50.00 KGS)",
-    "Concetracion": 16
-  },
-  {
-    "IdElemento": 9,
-    "DescrCorta": "CaO",
-    "Articulo": "FE00115",
-    "DESCRIPCION": "TIGSAMAG 2 E (50.00 KGS)",
-    "Concetracion": 28
-  },
-  {
-    "IdElemento": 3,
-    "DescrCorta": "K",
-    "Articulo": "FE00153",
-    "DESCRIPCION": "SULFATO DE POTASIO (50.0KLS)",
-    "Concetracion": 52
-  },
-  {
-    "IdElemento": 6,
-    "DescrCorta": "S",
-    "Articulo": "FE00153",
-    "DESCRIPCION": "SULFATO DE POTASIO (50.0KLS)",
-    "Concetracion": 18
-  },
-  {
-    "IdElemento": 4,
-    "DescrCorta": "Mg",
-    "Articulo": "FE00166",
-    "DESCRIPCION": "RAPIMAG (50.0KLS)",
-    "Concetracion": 36
-  },
-  {
-    "IdElemento": 4,
-    "DescrCorta": "Mg",
-    "Articulo": "FE00197",
-    "DESCRIPCION": "OXIDO DE MAGNESIO 65% (25 KGS)",
-    "Concetracion": 65
-  },
-  {
-    "IdElemento": 1,
-    "DescrCorta": "N",
-    "Articulo": "FE00185",
-    "DESCRIPCION": "NITRATO DE AMONIO GRANULAR (1.00QQ)",
-    "Concetracion": 34
-  },
-  {
-    "IdElemento": 1,
-    "DescrCorta": "N",
-    "Articulo": "FE00236",
-    "DESCRIPCION": "MAP 12-52-0 (1.00QQ)",
-    "Concetracion": 12
-  },
-  {
-    "IdElemento": 2,
-    "DescrCorta": "P",
-    "Articulo": "FE00236",
-    "DESCRIPCION": "MAP 12-52-0 (1.00QQ)",
-    "Concetracion": 52
-  },
-  {
-    "IdElemento": 3,
-    "DescrCorta": "K",
-    "Articulo": "FE00327",
-    "DESCRIPCION": "KMAG (1.00QQ)",
-    "Concetracion": 22
-  },
-  {
-    "IdElemento": 4,
-    "DescrCorta": "Mg",
-    "Articulo": "FE00327",
-    "DESCRIPCION": "KMAG (1.00QQ)",
-    "Concetracion": 18
-  },
-  {
-    "IdElemento": 6,
-    "DescrCorta": "S",
-    "Articulo": "FE00327",
-    "DESCRIPCION": "KMAG (1.00QQ)",
-    "Concetracion": 22
-  },
-  {
-    "IdElemento": 3,
-    "DescrCorta": "K",
-    "Articulo": "FE00304",
-    "DESCRIPCION": "SULFATO DE POTASIO (25.0KLS)",
-    "Concetracion": 52
-  },
-  {
-    "IdElemento": 6,
-    "DescrCorta": "S",
-    "Articulo": "FE00304",
-    "DESCRIPCION": "SULFATO DE POTASIO (25.0KLS)",
-    "Concetracion": 18
-  },
-  {
-    "IdElemento": 4,
-    "DescrCorta": "Mg",
-    "Articulo": "FE00494",
-    "DESCRIPCION": "GRANUMAX 1.1 (50.0KLS)",
-    "Concetracion": 23
-  },
-  {
-    "IdElemento": 9,
-    "DescrCorta": "CaO",
-    "Articulo": "FE00494",
-    "DESCRIPCION": "GRANUMAX 1.1 (50.0KLS)",
-    "Concetracion": 23
-  },
-  {
-    "IdElemento": 7,
-    "DescrCorta": "B",
-    "Articulo": "FE00557",
-    "DESCRIPCION": "ACIDO BORICO Fertilizante Edafico (25.00 KGS)",
-    "Concetracion": 56
-  },
-  {
-    "IdElemento": 7,
-    "DescrCorta": "B",
-    "Articulo": "FE00559",
-    "DESCRIPCION": "FERTIBAGRA 10",
-    "Concetracion": 32
-  },
-  {
-    "IdElemento": 4,
-    "DescrCorta": "Mg",
-    "Articulo": "FE01988",
-    "DESCRIPCION": "GRANUMAX 2.1 B (8% BORO) 50 KGS",
-    "Concetracion": 8
-  },
-  {
-    "IdElemento": 7,
-    "DescrCorta": "B",
-    "Articulo": "FE01988",
-    "DESCRIPCION": "GRANUMAX 2.1 B (8% BORO) 50 KGS",
-    "Concetracion": 8
-  },
-  {
-    "IdElemento": 9,
-    "DescrCorta": "CaO",
-    "Articulo": "FE01988",
-    "DESCRIPCION": "GRANUMAX 2.1 B (8% BORO) 50 KGS",
-    "Concetracion": 25
-  },
-  {
-    "IdElemento": 4,
-    "DescrCorta": "Mg",
-    "Articulo": "FE02113",
-    "DESCRIPCION": "MICROMIX MAG PLUS CAFE (20 KLS)",
-    "Concetracion": 23
-  },
-  {
-    "IdElemento": 5,
-    "DescrCorta": "Zn",
-    "Articulo": "FE02113",
-    "DESCRIPCION": "MICROMIX MAG PLUS CAFE (20 KLS)",
-    "Concetracion": 5
-  },
-  {
-    "IdElemento": 6,
-    "DescrCorta": "S",
-    "Articulo": "FE02113",
-    "DESCRIPCION": "MICROMIX MAG PLUS CAFE (20 KLS)",
-    "Concetracion": 5.7
-  },
-  {
-    "IdElemento": 7,
-    "DescrCorta": "B",
-    "Articulo": "FE02113",
-    "DESCRIPCION": "MICROMIX MAG PLUS CAFE (20 KLS)",
-    "Concetracion": 2
-  },
-  {
-    "IdElemento": 9,
-    "DescrCorta": "CaO",
-    "Articulo": "FE02113",
-    "DESCRIPCION": "MICROMIX MAG PLUS CAFE (20 KLS)",
-    "Concetracion": 4
-  },
-  {
-    "IdElemento": 13,
-    "DescrCorta": "Cu",
-    "Articulo": "FE02113",
-    "DESCRIPCION": "MICROMIX MAG PLUS CAFE (20 KLS)",
-    "Concetracion": 1
-  },
-  {
-    "IdElemento": 15,
-    "DescrCorta": "Mo",
-    "Articulo": "FE02113",
-    "DESCRIPCION": "MICROMIX MAG PLUS CAFE (20 KLS)",
-    "Concetracion": 0.01
-  },
-  {
-    "IdElemento": 16,
-    "DescrCorta": "Ze",
-    "Articulo": "FE02113",
-    "DESCRIPCION": "MICROMIX MAG PLUS CAFE (20 KLS)",
-    "Concetracion": 1.2
-  },
-  {
-    "IdElemento": 7,
-    "DescrCorta": "B",
-    "Articulo": "M000778",
-    "DESCRIPCION": "ULEXITA GRANULAR BORO 32 (JUMBO DE 666.67KG)",
-    "Concetracion": 32
-  },
-  {
-    "IdElemento": 4,
-    "DescrCorta": "Mg",
-    "Articulo": "FE00733",
-    "DESCRIPCION": "TIGSAMAG BOR (50.00 KGS)",
-    "Concetracion": 14
-  },
-  {
-    "IdElemento": 7,
-    "DescrCorta": "B",
-    "Articulo": "FE00733",
-    "DESCRIPCION": "TIGSAMAG BOR (50.00 KGS)",
-    "Concetracion": 7
-  },
-  {
-    "IdElemento": 9,
-    "DescrCorta": "CaO",
-    "Articulo": "FE00733",
-    "DESCRIPCION": "TIGSAMAG BOR (50.00 KGS)",
-    "Concetracion": 23
-  },
-  {
-    "IdElemento": 1,
-    "DescrCorta": "N",
-    "Articulo": "FE01761",
-    "DESCRIPCION": "MAP 11-44-0 (1.00 QQ)",
-    "Concetracion": 14
-  },
-  {
-    "IdElemento": 2,
-    "DescrCorta": "P",
-    "Articulo": "FE01761",
-    "DESCRIPCION": "MAP 11-44-0 (1.00 QQ)",
-    "Concetracion": 44
-  },
-  {
-    "IdElemento": 1,
-    "DescrCorta": "N",
-    "Articulo": "FE01800",
-    "DESCRIPCION": "NITRO XTEND PLUS (1 QQ)",
-    "Concetracion": 40
-  },
-  {
-    "IdElemento": 6,
-    "DescrCorta": "S",
-    "Articulo": "FE01800",
-    "DESCRIPCION": "NITRO XTEND PLUS (1 QQ)",
-    "Concetracion": 6
-  },
-  {
-    "IdElemento": 4,
-    "DescrCorta": "Mg",
-    "Articulo": "FE00653",
-    "DESCRIPCION": "GRANUMAX 2.1 (50.00 KGS)",
-    "Concetracion": 15
-  },
-  {
-    "IdElemento": 9,
-    "DescrCorta": "CaO",
-    "Articulo": "FE00653",
-    "DESCRIPCION": "GRANUMAX 2.1 (50.00 KGS)",
-    "Concetracion": 25
-  },
-  {
-    "IdElemento": 4,
-    "DescrCorta": "Mg",
-    "Articulo": "FE00831",
-    "DESCRIPCION": "GRANUMAX S (50.00 KGS)",
-    "Concetracion": 23
-  },
-  {
-    "IdElemento": 6,
-    "DescrCorta": "S",
-    "Articulo": "FE00831",
-    "DESCRIPCION": "GRANUMAX S (50.00 KGS)",
-    "Concetracion": 8
-  },
-  {
-    "IdElemento": 9,
-    "DescrCorta": "CaO",
-    "Articulo": "FE00831",
-    "DESCRIPCION": "GRANUMAX S (50.00 KGS)",
-    "Concetracion": 15
+    "Concetracion": 53,
+    "Activo": 1,
+    "DefaultRelleno": 1,
+    "PorcFijo": 0,
+    "ValorPorc": 0
   },
   {
     "IdElemento": 11,
-    "DescrCorta": "H",
     "Articulo": "FE00780",
-    "DESCRIPCION": "HUMIPLEX 50 GR FERTILIZANTE (1.00 KGS)",
-    "Concetracion": 100
-  },
-  {
-    "IdElemento": 5,
-    "DescrCorta": "Zn",
-    "Articulo": "FE00944",
-    "DESCRIPCION": "RAPIZINC ZnO=28% (50.00 KGS)",
-    "Concetracion": 28
-  },
-  {
-    "IdElemento": 4,
-    "DescrCorta": "Mg",
-    "Articulo": "FE00954",
-    "DESCRIPCION": "GRANUMAX 2.1 S (50.00 KGS)",
-    "Concetracion": 13
-  },
-  {
-    "IdElemento": 6,
-    "DescrCorta": "S",
-    "Articulo": "FE00954",
-    "DESCRIPCION": "GRANUMAX 2.1 S (50.00 KGS)",
-    "Concetracion": 10
-  },
-  {
-    "IdElemento": 9,
-    "DescrCorta": "CaO",
-    "Articulo": "FE00954",
-    "DESCRIPCION": "GRANUMAX 2.1 S (50.00 KGS)",
-    "Concetracion": 26
-  },
-  {
-    "IdElemento": 4,
-    "DescrCorta": "Mg",
-    "Articulo": "FE00955",
-    "DESCRIPCION": "TIGSAMAG 4 E (50.00 KGS)",
-    "Concetracion": 14
-  },
-  {
-    "IdElemento": 5,
-    "DescrCorta": "Zn",
-    "Articulo": "FE00955",
-    "DESCRIPCION": "TIGSAMAG 4 E (50.00 KGS)",
-    "Concetracion": 2
-  },
-  {
-    "IdElemento": 7,
-    "DescrCorta": "B",
-    "Articulo": "FE00955",
-    "DESCRIPCION": "TIGSAMAG 4 E (50.00 KGS)",
-    "Concetracion": 0.6
-  },
-  {
-    "IdElemento": 9,
-    "DescrCorta": "CaO",
-    "Articulo": "FE00955",
-    "DESCRIPCION": "TIGSAMAG 4 E (50.00 KGS)",
-    "Concetracion": 23
-  },
-  {
-    "IdElemento": 6,
-    "DescrCorta": "S",
-    "Articulo": "FE00913",
-    "DESCRIPCION": "TIGSABOR 32 G (50.00 KGS)",
-    "Concetracion": 1
-  },
-  {
-    "IdElemento": 7,
-    "DescrCorta": "B",
-    "Articulo": "FE00913",
-    "DESCRIPCION": "TIGSABOR 32 G (50.00 KGS)",
-    "Concetracion": 32
-  },
-  {
-    "IdElemento": 9,
-    "DescrCorta": "CaO",
-    "Articulo": "FE00913",
-    "DESCRIPCION": "TIGSABOR 32 G (50.00 KGS)",
-    "Concetracion": 9
-  },
-  {
-    "IdElemento": 1,
-    "DescrCorta": "N",
-    "Articulo": "FE01635",
-    "DESCRIPCION": "MAP 10-50-0 (1 QQ)",
-    "Concetracion": 10
-  },
-  {
-    "IdElemento": 2,
-    "DescrCorta": "P",
-    "Articulo": "FE01635",
-    "DESCRIPCION": "MAP 10-50-0 (1 QQ)",
-    "Concetracion": 50
-  },
-  {
-    "IdElemento": 4,
-    "DescrCorta": "Mg",
-    "Articulo": "FE02098",
-    "DESCRIPCION": "DRAGOX 3.0 (1,500 KGS)",
-    "Concetracion": 28
-  },
-  {
-    "IdElemento": 6,
-    "DescrCorta": "S",
-    "Articulo": "FE02098",
-    "DESCRIPCION": "DRAGOX 3.0 (1,500 KGS)",
-    "Concetracion": 20
-  },
-  {
-    "IdElemento": 9,
-    "DescrCorta": "CaO",
-    "Articulo": "FE02098",
-    "DESCRIPCION": "DRAGOX 3.0 (1,500 KGS)",
-    "Concetracion": 14
-  },
-  {
-    "IdElemento": 1,
-    "DescrCorta": "N",
-    "Articulo": "FE02103",
-    "DESCRIPCION": "NITRATO DE POTASIO 13-0-45 (1,200 KGS)",
-    "Concetracion": 13
-  },
-  {
-    "IdElemento": 3,
-    "DescrCorta": "K",
-    "Articulo": "FE02103",
-    "DESCRIPCION": "NITRATO DE POTASIO 13-0-45 (1,200 KGS)",
-    "Concetracion": 45
-  },
-  {
-    "IdElemento": 1,
-    "DescrCorta": "N",
-    "Articulo": "FE02104",
-    "DESCRIPCION": "NITRATO DE SODIO POTASICO 15-0-14 (1,200 KGS)",
-    "Concetracion": 15
-  },
-  {
-    "IdElemento": 3,
-    "DescrCorta": "K",
-    "Articulo": "FE02104",
-    "DESCRIPCION": "NITRATO DE SODIO POTASICO 15-0-14 (1,200 KGS)",
-    "Concetracion": 14
-  },
-  {
-    "IdElemento": 17,
-    "DescrCorta": "TMC",
-    "Articulo": "FE02105",
-    "DESCRIPCION": "HUMAGRO X-TEND B (1,040 LTS)",
-    "Concetracion": 100
-  },
-  {
-    "IdElemento": 6,
-    "DescrCorta": "S",
-    "Articulo": "FE01162",
-    "DESCRIPCION": "TIGSABOR 32 G (25.00 KGS)",
-    "Concetracion": 1
-  },
-  {
-    "IdElemento": 7,
-    "DescrCorta": "B",
-    "Articulo": "FE01162",
-    "DESCRIPCION": "TIGSABOR 32 G (25.00 KGS)",
-    "Concetracion": 32
-  },
-  {
-    "IdElemento": 9,
-    "DescrCorta": "CaO",
-    "Articulo": "FE01162",
-    "DESCRIPCION": "TIGSABOR 32 G (25.00 KGS)",
-    "Concetracion": 9
-  },
-  {
-    "IdElemento": 1,
-    "DescrCorta": "N",
-    "Articulo": "M000011",
-    "DESCRIPCION": "UREA 46% GRANULAR (GRANEL)",
-    "Concetracion": 46
-  },
-  {
-    "IdElemento": 4,
-    "DescrCorta": "Mg",
-    "Articulo": "FE02129",
-    "DESCRIPCION": "AZUFERTIL 5E (50.00 KGS)",
-    "Concetracion": 4
-  },
-  {
-    "IdElemento": 5,
-    "DescrCorta": "Zn",
-    "Articulo": "FE02129",
-    "DESCRIPCION": "AZUFERTIL 5E (50.00 KGS)",
-    "Concetracion": 2
-  },
-  {
-    "IdElemento": 6,
-    "DescrCorta": "S",
-    "Articulo": "FE02129",
-    "DESCRIPCION": "AZUFERTIL 5E (50.00 KGS)",
-    "Concetracion": 24
-  },
-  {
-    "IdElemento": 7,
-    "DescrCorta": "B",
-    "Articulo": "FE02129",
-    "DESCRIPCION": "AZUFERTIL 5E (50.00 KGS)",
-    "Concetracion": 0.6
-  },
-  {
-    "IdElemento": 9,
-    "DescrCorta": "CaO",
-    "Articulo": "FE02129",
-    "DESCRIPCION": "AZUFERTIL 5E (50.00 KGS)",
-    "Concetracion": 22
-  },
-  {
-    "IdElemento": 4,
-    "DescrCorta": "Mg",
-    "Articulo": "FE01001",
-    "DESCRIPCION": "TIGSAMAG 1 E (50.00 KGS)",
-    "Concetracion": 36
-  },
-  {
-    "IdElemento": 1,
-    "DescrCorta": "N",
-    "Articulo": "FE01482",
-    "DESCRIPCION": "NPK 21-0.1-21 (1.00 QQ)",
-    "Concetracion": 21
-  },
-  {
-    "IdElemento": 2,
-    "DescrCorta": "P",
-    "Articulo": "FE01482",
-    "DESCRIPCION": "NPK 21-0.1-21 (1.00 QQ)",
-    "Concetracion": 0.1
-  },
-  {
-    "IdElemento": 3,
-    "DescrCorta": "K",
-    "Articulo": "FE01482",
-    "DESCRIPCION": "NPK 21-0.1-21 (1.00 QQ)",
-    "Concetracion": 21
-  },
-  {
-    "IdElemento": 6,
-    "DescrCorta": "S",
-    "Articulo": "FE01491",
-    "DESCRIPCION": "SULFATO DE MANGANESO GRANULAR (25.00 KGS)",
-    "Concetracion": 56.8
-  },
-  {
-    "IdElemento": 8,
-    "DescrCorta": "Mn",
-    "Articulo": "FE01491",
-    "DESCRIPCION": "SULFATO DE MANGANESO GRANULAR (25.00 KGS)",
-    "Concetracion": 33
-  },
-  {
-    "IdElemento": 1,
-    "DescrCorta": "N",
-    "Articulo": "FE01483",
-    "DESCRIPCION": "NITRO XTEND 46% N(1 QQ)",
-    "Concetracion": 46
-  },
-  {
-    "IdElemento": 4,
-    "DescrCorta": "Mg",
-    "Articulo": "FE01094",
-    "DESCRIPCION": "MICROMIX Ca-Mg (20 KLS)",
-    "Concetracion": 9
-  },
-  {
-    "IdElemento": 5,
-    "DescrCorta": "Zn",
-    "Articulo": "FE01094",
-    "DESCRIPCION": "MICROMIX Ca-Mg (20 KLS)",
-    "Concetracion": 7.5
-  },
-  {
-    "IdElemento": 7,
-    "DescrCorta": "B",
-    "Articulo": "FE01094",
-    "DESCRIPCION": "MICROMIX Ca-Mg (20 KLS)",
-    "Concetracion": 0.1
-  },
-  {
-    "IdElemento": 8,
-    "DescrCorta": "Mn",
-    "Articulo": "FE01094",
-    "DESCRIPCION": "MICROMIX Ca-Mg (20 KLS)",
-    "Concetracion": 1.2
-  },
-  {
-    "IdElemento": 9,
-    "DescrCorta": "CaO",
-    "Articulo": "FE01094",
-    "DESCRIPCION": "MICROMIX Ca-Mg (20 KLS)",
-    "Concetracion": 5
-  },
-  {
-    "IdElemento": 13,
-    "DescrCorta": "Cu",
-    "Articulo": "FE01094",
-    "DESCRIPCION": "MICROMIX Ca-Mg (20 KLS)",
-    "Concetracion": 0.6
-  },
-  {
-    "IdElemento": 14,
-    "DescrCorta": "Fe",
-    "Articulo": "FE01094",
-    "DESCRIPCION": "MICROMIX Ca-Mg (20 KLS)",
-    "Concetracion": 1
-  },
-  {
-    "IdElemento": 15,
-    "DescrCorta": "Mo",
-    "Articulo": "FE01094",
-    "DESCRIPCION": "MICROMIX Ca-Mg (20 KLS)",
-    "Concetracion": 0.0025
-  },
-  {
-    "IdElemento": 5,
-    "DescrCorta": "Zn",
-    "Articulo": "FE01095",
-    "DESCRIPCION": "MICROMIX FORMUNICA I (20 KLS)",
-    "Concetracion": 15
-  },
-  {
-    "IdElemento": 6,
-    "DescrCorta": "S",
-    "Articulo": "FE01095",
-    "DESCRIPCION": "MICROMIX FORMUNICA I (20 KLS)",
-    "Concetracion": 10
-  },
-  {
-    "IdElemento": 7,
-    "DescrCorta": "B",
-    "Articulo": "FE01095",
-    "DESCRIPCION": "MICROMIX FORMUNICA I (20 KLS)",
-    "Concetracion": 1.5
-  },
-  {
-    "IdElemento": 8,
-    "DescrCorta": "Mn",
-    "Articulo": "FE01095",
-    "DESCRIPCION": "MICROMIX FORMUNICA I (20 KLS)",
-    "Concetracion": 3
-  },
-  {
-    "IdElemento": 13,
-    "DescrCorta": "Cu",
-    "Articulo": "FE01095",
-    "DESCRIPCION": "MICROMIX FORMUNICA I (20 KLS)",
-    "Concetracion": 2
-  },
-  {
-    "IdElemento": 15,
-    "DescrCorta": "Mo",
-    "Articulo": "FE01095",
-    "DESCRIPCION": "MICROMIX FORMUNICA I (20 KLS)",
-    "Concetracion": 0.01
-  },
-  {
-    "IdElemento": 5,
-    "DescrCorta": "Zn",
-    "Articulo": "FE01098",
-    "DESCRIPCION": "RAPIZINC ZnO=20% (50.00 KGS)",
-    "Concetracion": 20
-  },
-  {
-    "IdElemento": 4,
-    "DescrCorta": "Mg",
-    "Articulo": "FE01099",
-    "DESCRIPCION": "AZUFERTIL 5 Mn (50.00 KLS)",
-    "Concetracion": 4
-  },
-  {
-    "IdElemento": 6,
-    "DescrCorta": "S",
-    "Articulo": "FE01099",
-    "DESCRIPCION": "AZUFERTIL 5 Mn (50.00 KLS)",
-    "Concetracion": 22
-  },
-  {
-    "IdElemento": 8,
-    "DescrCorta": "Mn",
-    "Articulo": "FE01099",
-    "DESCRIPCION": "AZUFERTIL 5 Mn (50.00 KLS)",
-    "Concetracion": 5
-  },
-  {
-    "IdElemento": 9,
-    "DescrCorta": "CaO",
-    "Articulo": "FE01099",
-    "DESCRIPCION": "AZUFERTIL 5 Mn (50.00 KLS)",
-    "Concetracion": 20
-  },
-  {
-    "IdElemento": 1,
-    "DescrCorta": "N",
-    "Articulo": "FE01192",
-    "DESCRIPCION": "ALGAMAX (20.00 KGS)",
-    "Concetracion": 2
-  },
-  {
-    "IdElemento": 2,
-    "DescrCorta": "P",
-    "Articulo": "FE01192",
-    "DESCRIPCION": "ALGAMAX (20.00 KGS)",
-    "Concetracion": 2
-  },
-  {
-    "IdElemento": 3,
-    "DescrCorta": "K",
-    "Articulo": "FE01192",
-    "DESCRIPCION": "ALGAMAX (20.00 KGS)",
-    "Concetracion": 2
+    "Concetracion": 100,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
   },
   {
     "IdElemento": 12,
-    "DescrCorta": "Alga",
     "Articulo": "FE01192",
-    "DESCRIPCION": "ALGAMAX (20.00 KGS)",
-    "Concetracion": 70
+    "Concetracion": 70,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
   },
   {
-    "IdElemento": 4,
-    "DescrCorta": "Mg",
-    "Articulo": "FE01197",
-    "DESCRIPCION": "AZUFERTIL 3E (50.00 KGS)",
-    "Concetracion": 4
+    "IdElemento": 13,
+    "Articulo": "FE01094",
+    "Concetracion": 0.6,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
   },
   {
-    "IdElemento": 6,
-    "DescrCorta": "S",
-    "Articulo": "FE01197",
-    "DESCRIPCION": "AZUFERTIL 3E (50.00 KGS)",
-    "Concetracion": 28
+    "IdElemento": 13,
+    "Articulo": "FE01095",
+    "Concetracion": 2,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
   },
   {
-    "IdElemento": 9,
-    "DescrCorta": "CaO",
-    "Articulo": "FE01197",
-    "DESCRIPCION": "AZUFERTIL 3E (50.00 KGS)",
-    "Concetracion": 25
+    "IdElemento": 13,
+    "Articulo": "FE02113",
+    "Concetracion": 1,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
   },
   {
-    "IdElemento": 1,
-    "DescrCorta": "N",
-    "Articulo": "FE01210",
-    "DESCRIPCION": "SULFATO DE AMONIO GRANULAR (50.00 KGS)",
-    "Concetracion": 21
+    "IdElemento": 14,
+    "Articulo": "FE01094",
+    "Concetracion": 1,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
   },
   {
-    "IdElemento": 6,
-    "DescrCorta": "S",
-    "Articulo": "FE01210",
-    "DESCRIPCION": "SULFATO DE AMONIO GRANULAR (50.00 KGS)",
-    "Concetracion": 72
+    "IdElemento": 15,
+    "Articulo": "FE01094",
+    "Concetracion": 0.0025,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
   },
   {
-    "IdElemento": 1,
-    "DescrCorta": "N",
-    "Articulo": "FE01347",
-    "DESCRIPCION": "NPK 21-0.1-21 (500.00 KGS)",
-    "Concetracion": 21
+    "IdElemento": 15,
+    "Articulo": "FE01095",
+    "Concetracion": 0.01,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
   },
   {
-    "IdElemento": 2,
-    "DescrCorta": "P",
-    "Articulo": "FE01347",
-    "DESCRIPCION": "NPK 21-0.1-21 (500.00 KGS)",
-    "Concetracion": 0.1
+    "IdElemento": 15,
+    "Articulo": "FE02113",
+    "Concetracion": 0.01,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
   },
   {
-    "IdElemento": 3,
-    "DescrCorta": "K",
-    "Articulo": "FE01347",
-    "DESCRIPCION": "NPK 21-0.1-21 (500.00 KGS)",
-    "Concetracion": 21
+    "IdElemento": 16,
+    "Articulo": "FE02113",
+    "Concetracion": 1.2,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 0,
+    "ValorPorc": 0
   },
   {
-    "IdElemento": 1,
-    "DescrCorta": "N",
-    "Articulo": "FE01353",
-    "DESCRIPCION": "NPK 16-16-16 (1.00 TM)",
-    "Concetracion": 16
-  },
-  {
-    "IdElemento": 2,
-    "DescrCorta": "P",
-    "Articulo": "FE01353",
-    "DESCRIPCION": "NPK 16-16-16 (1.00 TM)",
-    "Concetracion": 16
-  },
-  {
-    "IdElemento": 3,
-    "DescrCorta": "K",
-    "Articulo": "FE01353",
-    "DESCRIPCION": "NPK 16-16-16 (1.00 TM)",
-    "Concetracion": 16
-  },
-  {
-    "IdElemento": 2,
-    "DescrCorta": "P",
-    "Articulo": "FE02099",
-    "DESCRIPCION": "TIGSAFOS 4 E (50.00 KGS)",
-    "Concetracion": 15
-  },
-  {
-    "IdElemento": 4,
-    "DescrCorta": "Mg",
-    "Articulo": "FE02099",
-    "DESCRIPCION": "TIGSAFOS 4 E (50.00 KGS)",
-    "Concetracion": 10
-  },
-  {
-    "IdElemento": 6,
-    "DescrCorta": "S",
-    "Articulo": "FE02099",
-    "DESCRIPCION": "TIGSAFOS 4 E (50.00 KGS)",
-    "Concetracion": 10
-  },
-  {
-    "IdElemento": 9,
-    "DescrCorta": "CaO",
-    "Articulo": "FE02099",
-    "DESCRIPCION": "TIGSAFOS 4 E (50.00 KGS)",
-    "Concetracion": 26
-  },
-  {
-    "IdElemento": 2,
-    "DescrCorta": "P",
-    "Articulo": "FE02100",
-    "DESCRIPCION": "TIGSAFOS 5 E (50.00 KGS)",
-    "Concetracion": 10
-  },
-  {
-    "IdElemento": 4,
-    "DescrCorta": "Mg",
-    "Articulo": "FE02100",
-    "DESCRIPCION": "TIGSAFOS 5 E (50.00 KGS)",
-    "Concetracion": 10
-  },
-  {
-    "IdElemento": 6,
-    "DescrCorta": "S",
-    "Articulo": "FE02100",
-    "DESCRIPCION": "TIGSAFOS 5 E (50.00 KGS)",
-    "Concetracion": 7
-  },
-  {
-    "IdElemento": 7,
-    "DescrCorta": "B",
-    "Articulo": "FE02100",
-    "DESCRIPCION": "TIGSAFOS 5 E (50.00 KGS)",
-    "Concetracion": 0.6
-  },
-  {
-    "IdElemento": 9,
-    "DescrCorta": "CaO",
-    "Articulo": "FE02100",
-    "DESCRIPCION": "TIGSAFOS 5 E (50.00 KGS)",
-    "Concetracion": 28
-  },
-  {
-    "IdElemento": 4,
-    "DescrCorta": "Mg",
-    "Articulo": "M000985",
-    "DESCRIPCION": "OXIDO DE MAGNESIO GRANULAR (1,250 KGS)",
-    "Concetracion": 65
-  },
-  {
-    "IdElemento": 4,
-    "DescrCorta": "Mg",
-    "Articulo": "M001841",
-    "DESCRIPCION": "OXIDO DE MAGNESIO GRANULAR (1,000 KGS)",
-    "Concetracion": 65
-  },
-  {
-    "IdElemento": 7,
-    "DescrCorta": "B",
-    "Articulo": "FE02031",
-    "DESCRIPCION": "GRANUBOR (1.00 QQ)",
-    "Concetracion": 48
-  },
-  {
-    "IdElemento": 7,
-    "DescrCorta": "B",
-    "Articulo": "FE02114",
-    "DESCRIPCION": "BORO ULEXITA GRANULAR -32%  B2O3- (25 KG)",
-    "Concetracion": 32
-  },
-  {
-    "IdElemento": 5,
-    "DescrCorta": "Zn",
-    "Articulo": "FE01981",
-    "DESCRIPCION": "OXISULFATO DE ZINC (1 QQ)",
-    "Concetracion": 32
-  },
-  {
-    "IdElemento": 1,
-    "DescrCorta": "N",
-    "Articulo": "FE2057",
-    "DESCRIPCION": "AGROCOTE 38-0-0 (3-4 M) (2000.0 LBS)",
-    "Concetracion": 38
-  },
-  {
-    "IdElemento": 6,
-    "DescrCorta": "S",
-    "Articulo": "FE2057",
-    "DESCRIPCION": "AGROCOTE 38-0-0 (3-4 M) (2000.0 LBS)",
-    "Concetracion": 13.3
-  },
-  {
-    "IdElemento": 1,
-    "DescrCorta": "N",
-    "Articulo": "M000104",
-    "DESCRIPCION": "SULFATO DE AMONIO STANDAR (GRANEL)",
-    "Concetracion": 21
-  },
-  {
-    "IdElemento": 6,
-    "DescrCorta": "S",
-    "Articulo": "M000104",
-    "DESCRIPCION": "SULFATO DE AMONIO STANDAR (GRANEL)",
-    "Concetracion": 72
-  },
-  {
-    "IdElemento": 1,
-    "DescrCorta": "N",
-    "Articulo": "M001635",
-    "DESCRIPCION": "MAP 10-50-0 (GRANEL)",
-    "Concetracion": 10
-  },
-  {
-    "IdElemento": 2,
-    "DescrCorta": "P",
-    "Articulo": "M001635",
-    "DESCRIPCION": "MAP 10-50-0 (GRANEL)",
-    "Concetracion": 50
-  },
-  {
-    "IdElemento": 1,
-    "DescrCorta": "N",
-    "Articulo": "M000012",
-    "DESCRIPCION": "UREA 46%  PRILLED (GRANEL)",
-    "Concetracion": 46
-  },
-  {
-    "IdElemento": 1,
-    "DescrCorta": "N",
-    "Articulo": "M000014",
-    "DESCRIPCION": "DAP 18-46-0 (GRANEL)",
-    "Concetracion": 18
-  },
-  {
-    "IdElemento": 2,
-    "DescrCorta": "P",
-    "Articulo": "M000014",
-    "DESCRIPCION": "DAP 18-46-0 (GRANEL)",
-    "Concetracion": 46
-  },
-  {
-    "IdElemento": 3,
-    "DescrCorta": "K",
-    "Articulo": "M000060",
-    "DESCRIPCION": "MOP 0-0-60 (GRANEL)",
-    "Concetracion": 60
-  },
-  {
-    "IdElemento": 1,
-    "DescrCorta": "N",
-    "Articulo": "M001761",
-    "DESCRIPCION": "MAP 11-44-0 (GRANEL)",
-    "Concetracion": 11
-  },
-  {
-    "IdElemento": 2,
-    "DescrCorta": "P",
-    "Articulo": "M001761",
-    "DESCRIPCION": "MAP 11-44-0 (GRANEL)",
-    "Concetracion": 44
-  },
-  {
-    "IdElemento": 1,
-    "DescrCorta": "N",
-    "Articulo": "M000236",
-    "DESCRIPCION": "MAP 12-52-0 (GRANEL)",
-    "Concetracion": 12
-  },
-  {
-    "IdElemento": 2,
-    "DescrCorta": "P",
-    "Articulo": "M000236",
-    "DESCRIPCION": "MAP 12-52-0 (GRANEL)",
-    "Concetracion": 52
-  },
-  {
-    "IdElemento": 4,
-    "DescrCorta": "Mg",
-    "Articulo": "M081879",
-    "DESCRIPCION": "OXIDO DE MAGNESIO GRANULAR (1,200 KGS)",
-    "Concetracion": 65
+    "IdElemento": 17,
+    "Articulo": "FE02105",
+    "Concetracion": 100,
+    "Activo": 1,
+    "DefaultRelleno": 0,
+    "PorcFijo": 1,
+    "ValorPorc": 0.2
   }
 ]
