@@ -14,6 +14,6 @@ it('El calculo del elemento principal deberia ser igual a { elemento: 2, porc: 1
 it('El calculo del segundo elemento deberia ser igual a { elemento: 1, porc: 0.1275992438563327, cantQQ: 0 }',() => {
   let result = ele_mp(1,18)  
   assert.expect(result.elemento).to.equal(1)
-  assert.expect(result.porc).to.equal(0.1275992438563327)
+  assert.expect(result.porc).to.equal(5.869565217391305)
   assert.expect(result.cantQQ).to.equal(0)
 })
